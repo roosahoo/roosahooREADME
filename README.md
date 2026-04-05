@@ -15,10 +15,6 @@ I’m open to collaboration and new opportunities, so feel free to check out my 
 </p>
 
 
-#### 👇 Btw this is me coding 👇
-
-<img align="center" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajcxZDZocmxkemdmeTBwNjg3ZGUydWFoZXJqNWV3Znhla296cHZwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
-
 
 ### Languages and Tools:
 
