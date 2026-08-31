@@ -1,12 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=roosahoo&color=ff69b4)
+### Software Developer · Data & AI Student 
+
 # About me
-#### Hey there 👋
-I'm a Developer who loves turning ideas to life through code.
 
-Right now, I’m all about React and building interactive, dynamic web applications and constantly exploring new ways to level up my skills. Alongside React, I work with JavaScript, TypeScript, Python, SQL, HTML, and CSS to create seamless and engaging experiences.
+I'm a Software Developer who enjoys turning ideas into things that actually work.
 
-I’m open to collaboration and new opportunities, so feel free to check out my projects and connect with me! 
+I’ve graduated as a Software Developer, and I’m currently studying to become an Data & AI Engineer. I like experimenting with new technologies and figuring out how to turn them into useful things.
 
+These days, I mostly work with Python, especially around AI and Data. I also enjoy building web applications and work with technologies like React, JavaScript, TypeScript, SQL, HTML, and CSS.
+
+This GitHub is where I share my personal projects, experiments, and things I build along the way. Projects I’ve worked on as part of my studies can be found on my GitLab.
+
+Feel free to check out my projects, and if you’d like to connect or collaborate, say hi!
 
 
 ### Connect with me
@@ -15,14 +20,5 @@ I’m open to collaboration and new opportunities, so feel free to check out my 
 </p>
 
 
-
-### Languages and Tools:
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 
