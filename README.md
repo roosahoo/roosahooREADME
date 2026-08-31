@@ -9,7 +9,7 @@ I’ve graduated as a Software Developer, and I’m currently studying to become
 
 These days, I mostly work with Python, especially around AI and Data. I also enjoy building web applications and work with technologies like React, JavaScript, TypeScript, SQL, HTML, and CSS.
 
-This GitHub is where I share my personal projects, experiments, and things I build along the way. Projects I’ve worked on as part of my studies can be found on my GitLab.
+This GitHub is where I share my personal projects, experiments, and things I build along the way. Projects I’ve worked on as part of my studies can be found on my [GitLab](https://gitlab.dclabra.fi/roosaham).
 
 Feel free to check out my projects, and if you’d like to connect or collaborate, say hi!
 
